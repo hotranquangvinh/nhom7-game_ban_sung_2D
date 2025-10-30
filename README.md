@@ -10,6 +10,5 @@ HEAD
 ## Cách chạy
 1. Cài pygame: `pip install pygame`
 2. Chạy game: `python main.py`
-=======
+
 # nhom7-game_ban_sung_2D
->>>>>>> 331a81ebd8dfee4b8590379b9878cfa0078d9da2
